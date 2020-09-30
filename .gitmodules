@@ -4,3 +4,6 @@
 [submodule "src/lib-test-b_miguel-gremy"]
 	path = src/lib-test-b_miguel-gremy
 	url = git@github.com:Miguel-Gremy-Sandbox/lib-test-b-miguel-gremy.git
+[submodule "lib-test-b_YANG-Yicheng"]
+	path = lib-test-b_YANG-Yicheng
+	url = git@github.com:felixyangyicheng/lib-test-b_YANG-Yicheng.git
